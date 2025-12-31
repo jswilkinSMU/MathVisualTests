@@ -1,0 +1,25 @@
+<GameConfig
+	pachinkoMinBallRadius="5"
+	pachinkoMaxBallRadius="25"
+
+	pachinkoNumDiscBumpers="10"
+	pachinkoMinDiscBumperRadius="5"
+	pachinkoMaxDiscBumperRadius="50"
+
+	pachinkoNumCapsuleBumpers="10"
+	pachinkoMinCapsuleBumperLength="1"
+	pachinkoMaxCapsuleBumperLength="150"
+	pachinkoMinCapsuleBumperRadius="5"
+	pachinkoMaxCapsuleBumperRadius="50"
+
+	pachinkoNumObbBumpers="10"
+	pachinkoMinObbBumperWidth="5"
+	pachinkoMaxObbBumperWidth="80"
+	
+	pachinkoWallElasticity="0.90"
+	pachinkoMinBumperElasticity="0.01"
+	pachinkoMaxBumperElasticity="0.99"
+	
+	pachinkoExtraWarpHeight="300"
+	/>
+
