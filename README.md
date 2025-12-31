@@ -40,7 +40,7 @@ A program to visualize different game programming math techniques including test
     		- Press V to snap ray vertically.
     		- Press H to snap ray horizontally.
 
-    Game3DTestShapes
+    Game3DTestShapes:
     	Keyboard Controls:
     		- F8 randomizes shapes.
     		- R toggles between solid and wireframe rasterizer modes.
@@ -49,7 +49,22 @@ A program to visualize different game programming math techniques including test
     		- Space locks raycast and reference position.
     		- LMB grabs and sets down objects.
 
+	Game2DCurves:
+		Keyboard Controls:
+			- W/E for previous/next easing functions.
+			- N/M for decreasing/increasing curve subdivisions.
+
+	Game2DPachinko:
+		Keyboard Controls:
+			- Move with mouse or ESDF
+			- Move arrow only with IJKL
+			- B to toggle bottom warp
+			- Space spawns one ball
+			- N spawns multiple balls
+			- Change to fixed timestep with P
+			- [ ] change fixed time step value
+
 ### Build and Use:
 	1. Download and Extract the zip folder.
 	2. Open the Run folder.
-	3. Double-click Doomenstein_Release_x64.exe to start the program.
+	3. Double-click MathVisualTests_Release_x64.exe to start the program.
