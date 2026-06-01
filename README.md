@@ -3,6 +3,16 @@ A program to visualize different game programming math techniques including test
 -----------------------------------------------------------------------------------------------
 ![Runner Banner](https://github.com/jswilkinSMU/MathVisualTests/blob/main/MVTHeroImg.png)
 
+## Engine
+
+This project is powered by my custom game engine:
+
+- **WilkinEngine**: https://github.com/jswilkinSMU/WilkinEngine
+
+The engine handles rendering, input, audio, and asset management.
+
+---
+
 ### How to Use:
     General Controls: 
 	    - T to enter slowmo 
